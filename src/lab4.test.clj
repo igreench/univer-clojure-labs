@@ -10,7 +10,7 @@
 
     (test/is (= (constant true) (solve-subst (run (_imp (_and (variable :a) (_not (_or (_imp (variable :a) (variable :b)) (variable :c)))) (_and (variable :c) (variable :c) (variable :a)))))))
 
-    (test/is (= (_andg
+    (test/is (= (_and
                   (_not (variable :x))
                   (_not (variable :y)))
                (de-morg (_not (_or (variable :x) (variable :y))))))
