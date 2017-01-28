@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ReplState" timestamp="1485642179193">{:repl-history {:ide [], :local [&quot;(mapcat reverse [[3 2 1 0] [6 5 4] [9 8 7]])&quot; &quot;(mapcat reverse [[3 2 1 0] [6 5 4] [9 8 [6] 7]])&quot; &quot;fo&quot; &quot;foo&quot; &quot;(+ 1 1)&quot; &quot;(foo \&quot;foo\&quot;)&quot; &quot;(println \&quot;HUI\&quot;)&quot; &quot;(foo 3)&quot; &quot;(foo \&quot;sdfdsf\&quot;)&quot; &quot;(require '[hello.core as c])&quot; &quot;(require '[hello.core :as c])&quot; &quot;(c/foo 3)&quot; &quot;(hello.core/foo 3)&quot; &quot;lazy-seq&quot; &quot;(lazy-seq)&quot; &quot;(source lazy-seq)&quot; &quot;(source mapcat)&quot;], :remote []}}</component>
+</project>
