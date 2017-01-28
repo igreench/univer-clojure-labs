@@ -243,5 +243,3 @@
     (println "nest: "  (reduce-nested (distrib (disc-not (de-morg (disc-imp (reduce-nested (distrib (disc-not (de-morg (disc-imp expr)))))))))))
   )
 
-
-(main)
